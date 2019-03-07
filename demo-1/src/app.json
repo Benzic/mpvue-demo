@@ -10,7 +10,8 @@
     "pages/goodDetail/main",
     "pages/comment/main",
     "pages/submit/main",
-    "pages/coupon/main"
+    "pages/coupon/main",
+    "pages/city/main"
   ],
   "window": {
     "backgroundTextStyle": "light",
